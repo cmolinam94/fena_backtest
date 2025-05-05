@@ -1,3 +1,4 @@
+
 # Backtesting de Carteras
 
 Esta aplicación permite realizar backtesting de múltiples carteras de inversión, comparando su rendimiento contra un benchmark.
